@@ -13,5 +13,14 @@ Use boto3(https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) to
 	NOTE: There is a one-to-one mapping between Client and API calls allowed against a service.
 
 ## 01-webotron
+
 This is a script that will sync a local directory to an S3 bucket
 and it will optionally configure Route53 and cloudfront as well
+
+### Features of Webotron
+
+Webotron currently has the following features:
+
+- List Buckets (given an account)
+- List Objects (given a bucket in an account)
+
