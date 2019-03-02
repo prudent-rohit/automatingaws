@@ -23,4 +23,4 @@ Webotron currently has the following features:
 
 - List Buckets (given an account)
 - List Objects (given a bucket in an account)
-
+- Create and Setup a Bucket for Static WebHosting
